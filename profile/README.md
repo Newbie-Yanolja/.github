@@ -157,8 +157,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/miryang1016">
-          <img src="https://avatars.githubusercontent.com/miryang1016" width="120px;" alt="miryang1016">
+        <a href="https://github.com/Me-Ryang">
+          <img src="https://avatars.githubusercontent.com/Me-Ryang" width="120px;" alt="Me-Ryang">
         </a>
       </td>
       <td align="center">
@@ -189,7 +189,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/miryang1016">
+      <a href="https://github.com/Me-Ryang">
         김미량
       </a>
     </td>
